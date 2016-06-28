@@ -9,8 +9,10 @@
 
 ##预览下载
 
-* 预览-[适配器选择](https://raw.githubusercontent.com/experdot/ExperDot.NetSpeedMonitor/master/Preview_Adapter.jpg)
-* 预览-[透明度调节](https://raw.githubusercontent.com/experdot/ExperDot.NetSpeedMonitor/master/Preview_Transparent.jpg)
+* 适配器选择  
+ ![](Preview_Transparent.jpg)
+* 透明度调节  
+ ![](Preview_Adapter.jpg)
 * 程序-[点此下载](https://github.com/experdot/ExperDot.NetSpeedMonitor/blob/master/Application/NetSpeedMonitor.exe?raw=true)
 
 ##版本更新
